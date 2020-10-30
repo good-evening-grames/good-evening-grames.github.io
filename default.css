@@ -1,3 +1,7 @@
 body {
     background-color: #FDF6E4;
 }
+
+img {
+    max-width: 100%;
+}
