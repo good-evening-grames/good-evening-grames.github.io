@@ -5,3 +5,14 @@ body {
 img {
     max-width: 100%;
 }
+
+iframe[src*=youtube] {
+    max-width: 100%;
+}
+
+iframe[src*=soundcloud] {
+    display: block;
+    width: 800px;
+    max-width: 100%;
+    margin-bottom: .5em;
+}
